@@ -1,5 +1,7 @@
 [Technical Debt Research](https://github.com/Technical-Debt-Large-Scale)
 
+[Systematic Mapping study in ATD](https://github.com/Technical-Debt-Large-Scale/sms)
+
 [Extract ATD Information from scientific papers](https://github.com/Technical-Debt-Large-Scale/qualification/blob/main/python/analysis/extractionatd.ipynb)
 
 [ATD Concepts](https://technical-debt-large-scale.github.io/qualification/atd_concepts.html)
